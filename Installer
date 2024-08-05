@@ -53,3 +53,10 @@ gpytranslate
 openai==0.28.0
 mpv
 moviepy
+asyncio
+GitPython
+motor
+pyrogram
+python-dotenv
+telegraph
+TgCrypto
